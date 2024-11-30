@@ -1,3 +1,9 @@
+### TXT files (usually Example.txt and Input.txt)
+*.txt
+
+
+### --- PYTHON STUFF --- ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
